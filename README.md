@@ -42,8 +42,7 @@ AquaFlow-Plumbing/
 ⚡ How to Use
 Clone the repo or download the index.html file.
 
-bash
-Copy code
+
 git clone https://github.com/your-username/AquaFlow-Plumbing.git
 cd AquaFlow-Plumbing
 Open index.html in any modern web browser.
