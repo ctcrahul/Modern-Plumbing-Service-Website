@@ -72,5 +72,7 @@ Add blog section with CMS support.
 Improve SEO and accessibility features.
 
 👨‍💻 Author
+<br>
 Rahul Singh
+<br>
 📧 rahulsingh51775177@gmail.com
