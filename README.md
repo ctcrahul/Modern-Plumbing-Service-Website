@@ -50,7 +50,7 @@ AquaFlow-Plumbing/
 Clone the repo or download the index.html file.
 
 
-git clone https://github.com//AquaFlow-Plumbing.git
+git clone https://github.com/ctcrahul/AquaFlow-Plumbing.git
 cd AquaFlow-Plumbing
 Open index.html in any modern web browser.
 
