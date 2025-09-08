@@ -41,7 +41,7 @@ JavaScript (Vanilla JS) – Interactive features (menu toggle, theme switch, for
 Font Awesome – Icons for UI/UX enhancement
 
 📂 Project Structure
-bash
+
 AquaFlow-Plumbing/
 │── index.html       # Main HTML file
 │── README.md        # Project documentation
