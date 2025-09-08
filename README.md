@@ -42,7 +42,6 @@ Font Awesome – Icons for UI/UX enhancement
 
 📂 Project Structure
 bash
-Copy code
 AquaFlow-Plumbing/
 │── index.html       # Main HTML file
 │── README.md        # Project documentation
