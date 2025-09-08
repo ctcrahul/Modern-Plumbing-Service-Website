@@ -41,11 +41,12 @@ JavaScript (Vanilla JS) – Interactive features (menu toggle, theme switch, for
 Font Awesome – Icons for UI/UX enhancement
 
 📂 Project Structure
-
+<br>
 AquaFlow-Plumbing/
 │── index.html       # Main HTML file
 │── README.md        # Project documentation
 │── assets/          # Images, icons (optional external folder)
+<br>
 ⚡ How to Use
 Clone the repo or download the index.html file.
 
