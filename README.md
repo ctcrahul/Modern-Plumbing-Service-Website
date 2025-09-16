@@ -1,4 +1,4 @@
-**AquaFlow Plumbing Website**
+# AquaFlow Plumbing Website
 
 <br>
 A modern, responsive, and user-friendly plumbing services website built with HTML, CSS, and JavaScript.
