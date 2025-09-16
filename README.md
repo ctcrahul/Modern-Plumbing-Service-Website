@@ -5,8 +5,8 @@ A modern, responsive, and user-friendly plumbing services website built with HTM
 It showcases company services, customer trust badges, a contact form, and features like dark mode, mobile-friendly navigation, and smooth scrolling.
 <br>
 
-<br>
-🚀 Features<br>
+
+## 🚀 Features
 ✅ Responsive Design – Works across desktops, tablets, and mobile devices.
 
 ✅ Dark Mode Toggle – Switch between light and dark themes.
